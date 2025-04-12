@@ -24,10 +24,6 @@ public class books {
     
     private int bookQuantity;
     
-    private boolean bookReserverd;
-    
-    private boolean bookMissing;
-    
     private boolean isBookSerie;
 
 
